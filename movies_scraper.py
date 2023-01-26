@@ -1,4 +1,4 @@
-# © https://t.me/CyniteBackup
+# © https://t.me/hk_Backup
 
 import requests
 from bs4 import BeautifulSoup
