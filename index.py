@@ -1,4 +1,4 @@
-# © https://t.me/CyniteBackup
+# © https://t.me/hk_Backup
 import os
 from io import BytesIO
 from queue import Queue
@@ -10,7 +10,7 @@ from movies_scraper import search_movies, get_movie
 
 
 TOKEN = os.getenv("TOKEN")
-URL = "Get It From Vercel"
+URL = "movies-search-bot-neon.vercel.app"
 bot = Bot(TOKEN)
 
 
